@@ -1,4 +1,4 @@
-<h1>Hi, I'm Lindsey! <br/><a href="(https://github.com/cajunbloom)">Programmer</a></h1>
+<h1>Hi, I'm Lindsey! <br/><a>Programmer</a></h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
