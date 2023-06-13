@@ -1,6 +1,6 @@
 <h1>Hi, I'm Lindsey! <br/>
   I am currently building my portfolio. Feel free to take a look!
-  <a>Programmer</a></h1>
+  
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
