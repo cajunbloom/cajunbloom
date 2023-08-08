@@ -6,7 +6,7 @@
 
 - <b>Data Structures and Algorithms Practice</b>
   - [Pipe Fitting Program - Java](https://github.com/cajunbloom/dynamicprogramming)
-  - [Almost Shortest Path - Java](https://github.com/cajunbloom/ALMOSTSHORTESTPATH)
+  - [Almost Shortest Path - Python](https://github.com/cajunbloom/ALMOSTSHORTESTPATH)
  
 -<b>PYTHON PROJECTS</b>
   - [AGAR - PYTHON](https://github.com/cajunbloom/AGAR)
