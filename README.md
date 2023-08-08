@@ -5,7 +5,7 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice</b>
-  - [Pipe Fitting Program - Python](https://github.com/cajunbloom/dynamicprogramming)
+  - [Pipe Fitting Program - Java](https://github.com/cajunbloom/dynamicprogramming)
   - [Almost Shortest Path - Java](https://github.com/cajunbloom/ALMOSTSHORTESTPATH)
  
 -<b>PYTHON PROJECTS</b>
