@@ -10,6 +10,7 @@
  
 -<b>PYTHON PROJECTS</b>
   - [AGAR - PYTHON](https://github.com/cajunbloom/AGAR1)
+  - [Pottery Studio App (work in progress) - PYTHON. FLASK. SQLITE] (https://github.com/cajunbloom/pottery)
     
   
 
