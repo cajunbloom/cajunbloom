@@ -11,8 +11,10 @@
 -<b>PYTHON PROJECTS</b>
   - [AGAR - PYTHON](https://github.com/cajunbloom/AGAR1)
 
-  -<b>IM CURRENTLY WORKING ON</b>
-  -  [Pottery Studio App (work in progress) - PYTHON. FLASK. SQLITE](https://github.com/cajunbloom/pottery)
-    
+
+-<b>PYTHON APP CREATED FOR MY JOB</b>
+  - (https://github.com/cajunbloom/pottery_store_app)
+
+
   
 
