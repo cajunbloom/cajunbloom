@@ -12,7 +12,7 @@
   - [AGAR - PYTHON](https://github.com/cajunbloom/AGAR1)
 
 
--<b>PYTHON APP CREATED FOR MY JOB</b>
+-<b>PYTHON APP CREATED FOR MY JOB. STILL A WORK IN PROGRESS ON THE FRONT END SIDE</b>
   - (https://github.com/cajunbloom/pottery_store_app)
 
 
